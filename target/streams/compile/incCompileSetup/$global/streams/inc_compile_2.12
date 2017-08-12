@@ -1,0 +1,302 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\cattermolea\element\property\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$1.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$2.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$anon$macro$5$1.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$delayedInit$body.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\Data$.class
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\element\property\target\scala-2.12\classes\Data.class
+binary dependencies:
+8 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\com.chuusai\shapeless_2.12\bundles\shapeless_2.12-2.3.2.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\io.circe\circe-core_2.12\jars\circe-core_2.12-0.8.0.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\io.circe\circe-generic_2.12\jars\circe-generic_2.12-0.8.0.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\io.circe\circe-parser_2.12\jars\circe-parser_2.12-0.8.0.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\org.scalaj\scalaj-http_2.12\jars\scalaj-http_2.12-2.3.0.jar
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> C:\Users\cattermolea\.ivy2\cache\org.typelevel\cats-core_2.12\jars\cats-core_2.12-0.9.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$anon$exportDecoder$macro$8$1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$2
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$anon$macro$5$1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator$delayedInit$body
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Data
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Data$
+used names:
+182 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> $anon
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> $conforms
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> &&
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> +
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> /
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ::
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> <:<
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> <byname>
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> <init>
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> <refinement>
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ==
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> A
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ACursor
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AbstractFunction1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AccumulatingDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Any
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AnyRef
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> App
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ApplicativeError
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Apply
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Aux
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> AverageSurfaceCalculator
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> B
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> B1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Boolean
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Data
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Decoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> DecodingFailure
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> DefaultSymbolicLabelling
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> DerivedDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Double
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Either
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Exported
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> F
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> FieldType
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Function1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Function2
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Generic
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> H
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HCursor
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HList
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HNil
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Http
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HttpOption
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HttpOptions
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HttpRequest
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> HttpResponse
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> I
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> IndexOutOfBoundsException
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Int
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Iterator
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Json
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> K
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> KH
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> KT
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> KeyTag
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> LabelledGeneric
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Lazy
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> List
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> MatchError
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> MonadError
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> NonEmptyList
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> None
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Nothing
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Object
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Option
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Out
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ParsingFailure
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Predef
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Product
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> R
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Repr
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ReprDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Result
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Right
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ScalaRunTime
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Serializable
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Some
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> String
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Symbol
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> T
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> T0
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> T1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> T2
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Tagged
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Tuple2
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Unit
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> V
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> VH
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> VT
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> Witness
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ZipWithKeys
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> _1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> _2
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> _hashCode
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> _root_
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> _toString
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> anon$exportDecoder$macro$8
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> anon$macro$5
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> apply
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> as
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> asInstanceOf
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> asString
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> auto
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> averageSurface
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> body
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> c
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> circe
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> collection
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> connTimeout
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> consResults
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> dataList
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> decodeDouble
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> decodeList
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> decodeOption
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> decoding
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> deriveDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> deriveReprDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> downField
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> empty
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> eq
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> export
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> exportDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> foldDataList
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> foldLeft
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> fresh$macro$7
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> generic
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> getOrElse
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hconsZipWithKeys
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hcursor
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> head
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hlist
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hnilResult
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hnilResultAccumulating
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hnilZipWithKeys
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> http
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> httpBody
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> httpRequest
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> httpResponse
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> immutable
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> importedDecoder
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> inst$macro$1
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> inst$macro$6
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> inst$macro$9
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> io
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> isInstanceOf
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> json
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> labelled
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> lazily
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> map
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> materialize
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> materializeProduct
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> mkDefaultSymbolicLabelling
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> mkLazy
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> mkWitness
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ne
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> numberOfElements
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> option
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> p
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> package
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> parse
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> parser
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> pat$macro$4
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> println
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> readTimeout
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> resultInstance
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> runtime
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> scala
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> scalaj
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> shapeless
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> surfaceSqft
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> tag
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> tail
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> toString
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> total
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> tryDecode
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> tryDecodeAccumulating
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> typedProductIterator
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> unchecked
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> url
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> value
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> ||
+product stamps:
+9 items
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$.class -> lastModified(1502553517347)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$1.class -> lastModified(1502553517351)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$$anon$2.class -> lastModified(1502553517352)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1$anon$macro$5$1.class -> lastModified(1502553517353)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$anon$exportDecoder$macro$8$1.class -> lastModified(1502553517350)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator$delayedInit$body.class -> lastModified(1502553517354)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\AverageSurfaceCalculator.class -> lastModified(1502553517346)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\Data$.class -> lastModified(1502553517349)
+C:\Users\cattermolea\element\property\target\scala-2.12\classes\Data.class -> lastModified(1502553517348)
+source stamps:
+1 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> hash(e303c94d86fe956b9fc798570573a6d86f63daf8)
+binary stamps:
+8 items
+C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar -> lastModified(1458211842865)
+C:\Users\cattermolea\.ivy2\cache\com.chuusai\shapeless_2.12\bundles\shapeless_2.12-2.3.2.jar -> lastModified(1478080252000)
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-core_2.12\jars\circe-core_2.12-0.8.0.jar -> lastModified(1494338735000)
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-generic_2.12\jars\circe-generic_2.12-0.8.0.jar -> lastModified(1494338809000)
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-parser_2.12\jars\circe-parser_2.12-0.8.0.jar -> lastModified(1494338750000)
+C:\Users\cattermolea\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> lastModified(1500979666000)
+C:\Users\cattermolea\.ivy2\cache\org.scalaj\scalaj-http_2.12\jars\scalaj-http_2.12-2.3.0.jar -> lastModified(1478267278000)
+C:\Users\cattermolea\.ivy2\cache\org.typelevel\cats-core_2.12\jars\cats-core_2.12-0.9.0.jar -> lastModified(1484523185000)
+class names:
+8 items
+C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar -> java.lang.Object
+C:\Users\cattermolea\.ivy2\cache\com.chuusai\shapeless_2.12\bundles\shapeless_2.12-2.3.2.jar -> shapeless.Generic
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-core_2.12\jars\circe-core_2.12-0.8.0.jar -> io.circe.LowPriorityDecoders
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-generic_2.12\jars\circe-generic_2.12-0.8.0.jar -> io.circe.generic.decoding.ReprDecoder
+C:\Users\cattermolea\.ivy2\cache\io.circe\circe-parser_2.12\jars\circe-parser_2.12-0.8.0.jar -> io.circe.parser.package$
+C:\Users\cattermolea\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.3.jar -> scala.Product
+C:\Users\cattermolea\.ivy2\cache\org.scalaj\scalaj-http_2.12\jars\scalaj-http_2.12-2.3.0.jar -> scalaj.http.HttpOptions$
+C:\Users\cattermolea\.ivy2\cache\org.typelevel\cats-core_2.12\jars\cats-core_2.12-0.9.0.jar -> cats.Apply
+internal apis:
+1 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+v1yRgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAsc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwA+XnVnQABm5vdGlmeXNxAH4ADJMwuCx0AAR3YWl0c3EAfgAMOdL2hnQADSRhc0luc3RhbmNlT2ZzcQB+AAyCjzEOdAAMaHR0cFJlc3BvbnNlc3EAfgAM293Y/nQADHByb2R1Y3RBcml0eXNxAH4ADIldruR0AAN1cmxzcQB+AAzV5qdPdAAGZXF1YWxzc3EAfgAM6iIey3QAC2h0dHBSZXF1ZXN0c3EAfgAMscPfzHQADGZvbGREYXRhTGlzdHNxAH4ADHxgV1d0AA5hdmVyYWdlU3VyZmFjZXNxAH4ADB56uzt0AAxhc0luc3RhbmNlT2ZzcQB+AAz1SGW/dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxn0tjZdAAMc3luY2hyb25pemVkc3EAfgAMzz1eknQAEG51bWJlck9mRWxlbWVudHNzcQB+AAxzErXpdAANJGlzSW5zdGFuY2VPZnNxAH4ADF6AaDd0AAhjYW5FcXVhbHNxAH4ADE0TBy90AARtYWluc3EAfgAM7MEp8XQABXRvdGFsc3EAfgAMy4Fwc3QADXByb2R1Y3RQcmVmaXhzcQB+AAxPoe7DdAAJbm90aWZ5QWxsc3EAfgAMREpz1XQACGh0dHBCb2R5c3EAfgAMetlhXHQADGlzSW5zdGFuY2VPZnNxAH4ADKpYLH90AAY8aW5pdD5zcQB+AAy0SAv0dAALc3VyZmFjZVNxZnRzcQB+AAw+t9cwdAAIZGF0YUxpc3RzcQB+AAwtP0uGdAACPT1zcQB+AAz/2iRhdAAFY2xvbmVzcQB+AAwufgK0dAAGJGluaXQkc3EAfgAMUTL+wnQABGNvcHlzcQB+AAzDRBefdAAIdG9TdHJpbmdzcQB+AAyYdrq9dAAEYXJnc3NxAH4ADCYNdYh0AAIhPXNxAH4ADFoMF5d0AAhnZXRDbGFzc3NxAH4ADHLU8px0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADHSjISt0AAJuZXNxAH4ADMukWvd0AAREYXRhc3EAfgAMAAxom3QAAmVxc3EAfgAM1Jgw0XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADEstdX10ABhBdmVyYWdlU3VyZmFjZUNhbGN1bGF0b3JzcQB+AAy2fAv9dAALZGVsYXllZEluaXRzcQB+AAx9cNzkdAACIyNzcQB+AAw5K+KYdAAIZmluYWxpemVzcQB+AAzqe5mBdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxDVvQOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCNc3EAfgCIdXEAfgBqAAAAAHNxAH4AiHVxAH4AagAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcHEAfgB5dXEAfgB6AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Al3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCMdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALFzcQB+AHwAcQB+AC91cQB+AH4AAAAAc3EAfgCkdAAEVW5pdHEAfgCqdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Al3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AgXQABVBsYWlucQB+AEtzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIxzcQB+AKR0AAVBcnJheXEAfgCqdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKR0AAZTdHJpbmdzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwdAAEamF2YXNxAH4AsHQABGxhbmdxAH4AtXNxAH4AiHVxAH4AzAAAAARzcQB+AKR0AANBcHBxAH4AqnNxAH4ApHQAC0RlbGF5ZWRJbml0cQB+AKpzcQB+AKR0AAZPYmplY3RxAH4A0HNxAH4ApHQAA0FueXEAfgCqc3EAfgBscQB+AHl1cQB+AHoAAAAAc3EAfgB8AHEAfgBVdXEAfgB+AAAAAH5xAH4AgHQACENsYXNzRGVmdXEAfgCEAAAAAHNxAH4AiHEAfgCOc3EAfgCIc3EAfgCQc3EAfgCIdXEAfgBqAAAAAHNxAH4AiHVxAH4AagAAAABzcQB+AIh1cQB+AMwAAAAGc3EAfgCkdAAMU2VyaWFsaXphYmxlc3EAfgCoc3EAfgCrdXEAfgCuAAAAAnNxAH4AsHEAfgCzcQB+ALVzcQB+AKRxAH4A8nNxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4A1HNxAH4AsHQAAmlvcQB+ALVzcQB+AKR0AAdQcm9kdWN0cQB+APNzcQB+AKR0AAZFcXVhbHNxAH4A83NxAH4ApHEAfgDec3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHEAfgDUc3EAfgCwcQB+ANZxAH4AtXNxAH4ApHEAfgDgcQB+APN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdcrHLB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/QzpcVXNlcnNcY2F0dGVybW9sZWFcZWxlbWVudFxwcm9wZXJ0eVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4wPJTYb+lWufx5hXBXOm2G9j2vg=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\cattermolea\element\property\src\main\scala\AverageSurfaceCalculator.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdch5Oh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXGNhdHRlcm1vbGVhXGVsZW1lbnRccHJvcGVydHlcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdcj2iZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXGNhdHRlcm1vbGVhXGVsZW1lbnRccHJvcGVydHlcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdclVf91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXGNhdHRlcm1vbGVhXGVsZW1lbnRccHJvcGVydHlcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXdcrHLB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0M6XFVzZXJzXGNhdHRlcm1vbGVhXGVsZW1lbnRccHJvcGVydHlcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
