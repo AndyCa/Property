@@ -1,0 +1,2 @@
+# Property
+average sqft exercise
